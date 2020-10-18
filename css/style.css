@@ -3,16 +3,24 @@ body{
     padding: 0;
     box-sizing:  border-box;
     background-color: #cccccc;
+    font-family: 'Work Sans', sans-serif;
 }
 
 #img-div{
     width: 100vw;
-    height: 700px;
+    height: auto;
     background-color: white;
     display: flex;
     flex-direction: column;
     justify-content: baseline;
     align-items: center;
+    margin-bottom: 0%;
+
+}
+
+#img-caption{
+    font-size:0.8em;
+    margin-bottom: 1em;
 }
 
 

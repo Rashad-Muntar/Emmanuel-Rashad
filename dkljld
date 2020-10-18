@@ -1,0 +1,53 @@
+[33mcommit 2e2850db99d5da3abda11e9bd7b11c70f8e5daa1[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;31morigin/feature[m[33m)[m
+Author: gandil <gandil.eng@gmail.com>
+Date:   Sun Oct 18 19:07:48 2020 +0300
+
+    changed target from 'blank' to '_blank'
+
+[33mcommit 0e4bc27be1822cf5eb302adfad9bfd8aaa350eb2[m
+Author: Rashad Muntar <58520480+Rashad-Muntar@users.noreply.github.com>
+Date:   Sun Oct 18 15:30:47 2020 -0600
+
+    added styles, links, years list
+
+[33mcommit 00bb73b563507b575e5c1543a826dd1060d13586[m
+Author: gandil <gandil.eng@gmail.com>
+Date:   Sun Oct 18 17:40:26 2020 +0300
+
+    added div 'img-div', 'img' and 'fig-caption' tags
+
+[33mcommit 67bfc60f63002ae629cb9360e1a87d6e81089afa[m
+Author: gandil <gandil.eng@gmail.com>
+Date:   Sun Oct 18 17:30:49 2020 +0300
+
+    added main tags and title text
+
+[33mcommit 1f0f43286ce8a6869e2ff7090e3921f3c87ef588[m
+Author: gandil <gandil.eng@gmail.com>
+Date:   Sun Oct 18 17:29:14 2020 +0300
+
+    added main tags and title text
+
+[33mcommit 1eb878fde97ae5ba25baa4ffb1fa2f054d5e4dca[m
+Author: Rashad Muntar <58520480+Rashad-Muntar@users.noreply.github.com>
+Date:   Sun Oct 18 13:49:28 2020 -0600
+
+    fixing
+
+[33mcommit a151af037c0f707e9c62357b0b6ab91541618c01[m[33m ([m[1;32mmaster[m[33m)[m
+Author: gandil <gandil.eng@gmail.com>
+Date:   Sun Oct 18 01:14:48 2020 +0300
+
+    added some text about us
+
+[33mcommit 332515d25918e7002c5d2718cf9a847e6d9cb09f[m
+Author: Rashad Muntar <58520480+Rashad-Muntar@users.noreply.github.com>
+Date:   Sat Oct 17 22:03:07 2020 -0600
+
+    added Hello World
+
+[33mcommit f29fe3550eb35d79aa331e41eb243bc528e8c406[m
+Author: Rashad Muntar <58520480+Rashad-Muntar@users.noreply.github.com>
+Date:   Sat Oct 17 22:00:56 2020 -0600
+
+    testing
